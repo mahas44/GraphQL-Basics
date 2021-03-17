@@ -2,7 +2,7 @@
 
 GraphQL API with .NET 5 and Hot Chocolate Framework
 
-  I used <a href="https://www.nuget.org/packages/GraphQL.Server.Ui.Voyager/">this<a> extension for see the diagrams of table
+  I used <a href="https://www.nuget.org/packages/GraphQL.Server.Ui.Voyager/">this<a> extension for see the diagrams
 
 - Use the this endpoint **/graphql-voyager** for the diagrams,
 
